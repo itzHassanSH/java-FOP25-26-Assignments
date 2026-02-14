@@ -1,6 +1,6 @@
 # Java University Assignments Portfolio	
 
-This repository contains 13 java assignments from WS25/26 FOP. Each folder *should* contain the source code (`src/main`) and optional tests (`src/tests´).
+This repository contains 13 java assignments from WS25/26 FOP. Each folder *should* contain the source code (`src/main`) and optional tests (`src/tests`).
 
 ## Structure
 
